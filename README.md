@@ -70,7 +70,7 @@ Allows users to explore dashboard information using slicers for:
 
 **Executive Overview Dashboard**
 
-![Hospital Emergency Room Executive Overview Dashboard](Dashboard.png)
+![Hospital Emergency Room Executive Overview Dashboard](./Dashboard.png)
 
 ## 🔍 Analysis Workflow
 
@@ -93,7 +93,14 @@ It demonstrates how healthcare data can be organized and visualized to support o
 
 - `Hospital_Emergency_Room_Analytics_Dashboard.xlsx` — Excel workbook containing the dashboard and analysis.
 - `Dashboard.png` — Screenshot of the Executive Overview Dashboard.
-- `Hospital Emergency Room Data.csv` — Original dataset, subject to redistribution permission.
+
+## 📚 Dataset Source
+
+The project dataset was sourced from the following repository:
+
+[Hospital Emergency Room Dashboard – Satish Dhawale](https://github.com/SatishDhawale/Hospital_Emergency_Room_Dashboard)
+
+The original dataset is not included in this repository.
 
 ## 🚀 Skills Demonstrated
 
